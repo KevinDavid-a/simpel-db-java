@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bdd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bdd_jar</output-path>
+    <root id="archive" name="bdd.jar">
+      <element id="module-output" name="bdd" />
+      <element id="module-output" name="entities" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/8.4.1.jre8/mssql-jdbc-8.4.1.jre8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
